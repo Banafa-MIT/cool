@@ -2,7 +2,7 @@ Packing
 -----------
 shoes
 coat
-
+camera
 Picnic
 ----------
 bread
